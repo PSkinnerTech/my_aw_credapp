@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+# warp
+wallet.json
+testwallet.js
+transactionid.js
+
 # testing
 /coverage
 
