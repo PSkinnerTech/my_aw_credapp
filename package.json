@@ -15,6 +15,7 @@
     "react-dom": "18.2.0",
     "react-markdown": "^8.0.5",
     "uuid": "^9.0.0",
-    "warp-contracts": "^1.2.56"
+    "warp-contracts": "^1.2.56",
+    "warp-contracts-plugin-deploy": "^1.0.0"
   }
 }
