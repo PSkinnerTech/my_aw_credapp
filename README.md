@@ -1,3 +1,11 @@
+# SWAN Stack App
+
+## Description
+
+This app is a CRUD app (Create, Read, Update, Delete) built using Warp Contracts, Arweave, Next.js, and Bundlr. This is an opensource project, so feel free to fork & star to start building your first SWAN Stack dApp.
+
+### Next.js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
